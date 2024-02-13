@@ -1,5 +1,5 @@
 
-Implementation of [Real-world Anomaly Detection in Surveillance Videos] (https://arxiv.org/pdf/1801.04264.pdf) paper from CVPR 2018.
+Implementation of [Real-world Anomaly Detection in Surveillance Videos](https://arxiv.org/pdf/1801.04264.pdf) paper from CVPR 2018.
 
 Download C3D sports-1m weights from [here](https://github.com/adamcasson/c3d/releases/download/v0.1/sports1M_weights_tf.h5) and save them to 'trained_models' folder as 'c3d_sports1m.h5'.
 
